@@ -1,0 +1,113 @@
+    .nav {
+        padding-top: 15px;
+    }
+    
+    .active {
+        color: #f96b61;
+    }
+    
+    .active:hover {
+        color: #f96b61;
+    }
+    
+    .nav-link:hover {
+        color: #f96b61;
+    }
+    
+    body {
+        text-align: center;
+    }
+    
+    .carousel img {
+        filter: grayscale(100%);
+    }
+    
+    .carousel-control-prev-icon {
+        background-color: #ed564b;
+        height: 100px;
+        width: 50px;
+    }
+    
+    .carousel-control-next-icon {
+        background-color: #ed564b;
+        height: 100px;
+        width: 50px;
+    }
+    
+    .btn {
+        border-radius: 0px;
+        border-color: white;
+        color: white;
+    }
+    
+    .btn:hover {
+        border-radius: 0px;
+        border-color: white;
+        background-color: white;
+        color: black;
+    }
+    
+    .color {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        background: #ed564b;
+        border-top: 5px solid #f96b61;
+        border-bottom: 5px solid #f96b61;
+        color: white;
+    }
+    
+    .latest {
+        text-align: left;
+        border-bottom: 1px #dfdfdf solid;
+        margin-bottom: 10px;
+        margin-top: 40px;
+    }
+    
+    .latest1 {
+        text-align: left;
+    }
+    
+    h6 {
+        font-size: 16px;
+    }
+    
+    .h8 {
+        font-size: 14px;
+    }
+    
+    .bottom {
+        text-align: left;
+        background: #3b3b3b;
+        border-top: 5px solid #ed564b;
+        color: #aaa;
+        padding-bottom: 40px;
+    }
+    
+    .bottom>.container>.row {
+        margin-top: 30px;
+    }
+    
+    .bottom h3 {
+        color: white;
+        font-size: 20px;
+    }
+    
+    .bottom a {
+        line-height: 5px;
+        color: #aaa;
+    }
+    
+    .bottom a:hover {
+        text-decoration: none;
+    }
+    
+    footer {
+        padding-top: 25px;
+        text-align: left;
+        background-color: #292929;
+        color: #eee;
+    }
+    
+    footer p {
+        font-size: 13px;
+    }
